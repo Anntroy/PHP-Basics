@@ -1,9 +1,8 @@
-# Project Name
-> Here goes your awesome project description!
+# PHP Basics
+> This project is performed to learn the basic notions of the famous PHP language.
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -12,15 +11,10 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+This project is performed to learn the basic notions of the famous PHP language.
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* PHP - version 8.0.1
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -40,7 +34,7 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _finished_
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...

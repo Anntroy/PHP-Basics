@@ -1,0 +1,13 @@
+body {
+    padding: 1.8em 1.8em;
+}
+
+.form_item {
+    padding: 10px 10px;
+    font-size: 20px;
+}
+
+summary:focus-within {
+    outline: none;
+    color: brown;
+}
