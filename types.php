@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
+    <a href="index.php">
+        <h4>Home</h4>
+    </a>
     <?php
         echo "<h2 style='text-align: center'>Define a new variable and assign a value to each of the following types:</h2><br>";
 

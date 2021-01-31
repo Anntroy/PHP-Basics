@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
+    <a href="index.php">
+        <h4>Home</h4>
+    </a>
     <?php
         echo "<h1 style='text-align: center'>Performing math operations in PHP</h1><br>";
         $num = abs(-48);

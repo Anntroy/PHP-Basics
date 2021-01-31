@@ -7,7 +7,10 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
-<?php
+    <a href="index.php">
+        <h4>Home</h4>
+    </a>
+    <?php
         echo "<h1 style='text-align: center'>Performing operations with operators in PHP</h1><br>";
 
 

@@ -7,6 +7,9 @@
     <title>Conditionals</title>
 </head>
 <body>
+    <a href="index.php">
+        <h4>Home</h4>
+    </a>
     <?php
         echo "<h2 style='text-align: center'>Performing conditionals in PHP</h2><br>";
 

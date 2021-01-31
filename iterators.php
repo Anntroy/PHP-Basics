@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
+    <a href="index.php">
+        <h4>Home</h4>
+    </a>
     <?php
         echo "<h2 style='text-align: center'>Performing iterations in PHP</h2><br>";
 

@@ -7,6 +7,9 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
+    <a href="index.php">
+        <h4>Home</h4>
+    </a>
     <h2 style='text-align: center'>Using functions in PHP</h2><br>
     <form action="functions.php" method="get">
         <label for="num1">First number:</label><br>
@@ -55,7 +58,7 @@
             performOperation($_GET["num1"], $_GET["num2"]);
         }
         else {
-            echo "Choose the numbers";
+            echo "Choose some numbers";
         }
     ?>
 </body>
